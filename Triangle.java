@@ -4,7 +4,7 @@ public class Triangle extends GeometricFigure {
         return (a + b +c)/2;
     }
 
-    public int TrapesiumArea(int a, int b, int c){
+    public int TriangleArea(int a, int b, int c){
         return a + b + c;
     }
 
